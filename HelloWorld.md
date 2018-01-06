@@ -1,4 +1,4 @@
-To fulfill what was asked we have here :point_down:
+To fulfill what was asked, we have here :point_down:
 ## This is a markdown file
 
 
